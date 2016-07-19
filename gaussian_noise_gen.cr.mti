@@ -1,0 +1,85 @@
+C:/altera/11.0sp1/log_unit_lut.v {1 {vlog -work work -nocovercells C:/altera/11.0sp1/log_unit_lut.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module log_unit_lut
+
+Top level modules:
+	log_unit_lut
+
+} {} {}} C:/altera/11.0sp1/fixed_point_mul.v {1 {vlog -work work -nocovercells C:/altera/11.0sp1/fixed_point_mul.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module fixed_point_mul
+
+Top level modules:
+	fixed_point_mul
+
+} {} {}} C:/altera/11.0sp1/taus_gen.v {1 {vlog -work work -nocovercells {C:\altera\11.0sp1\taus_gen.v}
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module taus_gen
+
+Top level modules:
+	taus_gen
+
+} {} {}} C:/altera/11.0sp1/cosine_unit.v {1 {vlog -work work -nocovercells {C:\altera\11.0sp1\cosine_unit.v}
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module cosine_unit
+
+Top level modules:
+	cosine_unit
+
+} {} {}} C:/altera/11.0sp1/fixed_point_adder.v {1 {vlog -work work -nocovercells C:/altera/11.0sp1/fixed_point_adder.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module fixed_point_adder
+
+Top level modules:
+	fixed_point_adder
+
+} {} {}} C:/altera/11.0sp1/lzd.v {1 {vlog -work work -nocovercells C:/altera/11.0sp1/lzd.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module lzd
+
+Top level modules:
+	lzd
+
+} {} {}} C:/altera/11.0sp1/cosine_unit_lut.v {1 {vlog -work work -nocovercells {C:\altera\11.0sp1\cosine_unit_lut.v}
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module cosine_unit_lut
+
+Top level modules:
+	cosine_unit_lut
+
+} {} {}} C:/altera/11.0sp1/sqrt_unit_lut_1.v {1 {vlog -work work -nocovercells C:/altera/11.0sp1/sqrt_unit_lut_1.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module sqrt_unit_lut_1
+
+Top level modules:
+	sqrt_unit_lut_1
+
+} {} {}} C:/altera/11.0sp1/top_gng.v {1 {vlog -work work -nocovercells {C:\altera\11.0sp1\top_gng.v}
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module top_gng
+
+Top level modules:
+	top_gng
+
+} {} {}} C:/altera/11.0sp1/sqrt_unit_lut_2.v {1 {vlog -work work -nocovercells C:/altera/11.0sp1/sqrt_unit_lut_2.v
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module sqrt_unit_lut_2
+
+Top level modules:
+	sqrt_unit_lut_2
+
+} {} {}} C:/altera/11.0sp1/sqrt_unit.v {1 {vlog -work work -nocovercells {C:\altera\11.0sp1\sqrt_unit.v}
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module sqrt_unit
+
+Top level modules:
+	sqrt_unit
+
+} {} {}} C:/altera/11.0sp1/log_unit.v {1 {vlog -work work -nocovercells {C:\altera\11.0sp1\log_unit.v}
+Model Technology ModelSim ALTERA vlog 6.6d Compiler 2010.11 Nov  2 2010
+-- Compiling module log_unit
+
+Top level modules:
+	log_unit
+
+} {} {}}
